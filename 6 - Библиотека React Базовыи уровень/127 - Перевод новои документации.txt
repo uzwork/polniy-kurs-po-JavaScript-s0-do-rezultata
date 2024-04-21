@@ -1,0 +1,1 @@
+https://reactdev.ru/learn/passing-props-to-a-component/

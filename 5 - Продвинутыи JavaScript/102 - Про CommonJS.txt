@@ -1,0 +1,1 @@
+http://largescalejs.ru/commonjs-modules/

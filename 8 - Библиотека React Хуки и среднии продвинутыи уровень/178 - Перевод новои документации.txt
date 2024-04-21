@@ -1,0 +1,1 @@
+https://reactdev.ru/learn/passing-data-deeply-with-context/
